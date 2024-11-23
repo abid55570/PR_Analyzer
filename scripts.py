@@ -2,7 +2,7 @@
 # convert in base64
 import base64
 from urllib.parse import urlparse
-code_str = ''
+code_str = 'code string here'
 
 # print(base64.b64decode(code_str).decode())
 
